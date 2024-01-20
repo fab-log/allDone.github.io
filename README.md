@@ -1,2 +1,2 @@
 # allDone.github.io
-To do app with local storage
+To do app using local storage
